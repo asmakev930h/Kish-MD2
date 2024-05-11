@@ -20,7 +20,7 @@ global.wm = "cobra botz inc."
 
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = [',']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
